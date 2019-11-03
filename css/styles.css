@@ -7,3 +7,10 @@ body{
   height:800px;
   color: white;
 }
+.services{
+  background-image: url(../images/s_image.jpg);
+  color: white;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
