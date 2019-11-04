@@ -10,9 +10,9 @@ There are no known bugs.
 ## Technologies Used
 The wegpage was created using javascript, HTML and css. clicking on the what we do icons toggles more information and hovering over the porfolio pictures reveals the names of the projects. 
 ## Website overview 
-![Screenshots](/pictures/delani1.png)
-![wedo](/pictures/delani2.png) 
-![Contact](/pictures/delani3.png)
+![Screenshots](pictures/delani1.png)
+![wedo](pictures/delani2.png) 
+![Contact](pictures/delani3.png)
 
 ## BDD
 |Action | target            | outcome                |
