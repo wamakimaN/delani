@@ -6,6 +6,7 @@ body{
   background-size: 100%;
   height:800px;
   color: white;
+  padding-top: 250px;
 }
 .services{
   background-image: url(../images/s_image.jpg);
@@ -23,4 +24,36 @@ body{
 }
 .hide{
   display: none;
+}
+.project {
+  color: black;
+  position: absolute;
+  top: 10%;
+  left: 8%;
+  opacity: 0;
+  width: 80%;
+  border: 5px solid black;
+  padding: 4px;
+  margin: 5px;
+  height: 80%;
+  font-weight: bold;
+}
+.port{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#message{
+    background: none;
+    color: white;
+}
+input[type=text]{
+  background: none;
+  color: white;
+  justify-content: flex-end;
+  width: 100%;
+  border-color: white;
+}
+.project{
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
