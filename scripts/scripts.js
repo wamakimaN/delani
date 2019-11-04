@@ -7,4 +7,11 @@ $(document).ready(function () {
     $hide.slideToggle("slow");
     $(this).slideToggle("slow");
   })
+  $(".hide").on("click",function (e) {
+    var $weDo = $(e.target).closest(".we-do");
+    var $icon = $weDo.find(".icon");
+
+    $icon.slideToggle("slow");
+    $(this).slideToggle("slow");
+  })
 });
