@@ -15,13 +15,11 @@ The wegpage was created using javascript, HTML and css. clicking on the what we 
 ![Contact us section](/pictures/delani3.png)
 
 ## BDD
-|-------|-------------------|------------------------|
 |Action | target            | outcome                |
 |-------|-------------------|------------------------|
 | click | what we do icon   |toggles description     |
-|-------|-------------------|------------------------|
 | hover | project images    |animated effect on hover|
-|-------|-------------------|------------------------|
+
 
 ## Support and contact details
 You can reach the creator via e-mail for any issues or if you have questions, ideas or concerns.Feel free to make sugestions or conrtibutions that can improve the website's functionality.
